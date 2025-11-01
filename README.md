@@ -1,4 +1,6 @@
-# 🎯 Number Guessing Game (1–10)
+## Project Title: Number Guessing Game (1–10)
+## Project Author: Abiodun Bakare
+## Peer Reviewer: Abdur-Rahman Olaniyan
 
 ## Description
 A simple Python program that lets the user guess a random number between 1 and 10.  
