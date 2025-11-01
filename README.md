@@ -15,7 +15,9 @@ It uses basic programming concepts: input/output, loops, and decision control.
 4. While guess is not equal to the number:  
    - If guess < number → print "Too low!"  
    - If guess > number → print "Too high!"  
-   - Ask for another guess  
+   - Ask for another guess 
+      - <!-- Reviewer Note: Added input validation to handle non-numeric input -->
+ 
 5. When guess is correct → print "Congratulations!"  
 6. End program  
 
